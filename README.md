@@ -127,7 +127,7 @@
 [servlet](https://github.com/AshthoshN/6.b/blob/cb4369673dcca3991cfaa9dbe90df120c155cd54/CookieServlet.java)
 [html](https://github.com/AshthoshN/6.b/blob/cb4369673dcca3991cfaa9dbe90df120c155cd54/index.html)
 [xml](https://github.com/AshthoshN/6.b/blob/cb4369673dcca3991cfaa9dbe90df120c155cd54/web.xml)
-[output](Screenshot 2026-04-19 230503.png)
+[output](6a.png)
 
 ---
 
