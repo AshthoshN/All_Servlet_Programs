@@ -118,7 +118,7 @@
 [servlet](https://github.com/AshthoshN/6.servlet/blob/cf0f4179f34e8f1fa4e5b20b42ee85a3416de661/src/main/java/FactorialServlet.java)
 [html](https://github.com/AshthoshN/6.servlet/blob/cf0f4179f34e8f1fa4e5b20b42ee85a3416de661/src/main/webapp/index.html
 )
-[output](Screenshot2026-04-19230503.png)
+[output](6a.png)
 
 ---
 
